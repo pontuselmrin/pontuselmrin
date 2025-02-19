@@ -2,7 +2,7 @@
 
 I'm a student in statistics at Columbia.
 
-**My current fields of interest are**: Probabilistic methods, VANs, ML Systems
+**My current fields of interest are**: Probabilistic methods, VAEs, ML Systems
 <!--
 **pontuselmrin/pontuselmrin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
